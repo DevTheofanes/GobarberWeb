@@ -1,4 +1,4 @@
-# Template de Projetos React com ESLint, Prettier, Babel pré-configurados.
+# Gobarber Web
 
 ## How To
 
